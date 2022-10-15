@@ -1,0 +1,13 @@
+Name,Location Input,Type,Distance from MT,Distance from DT,walking Directions from MT,walking Directions from DT,transit directions from MT,transit directions from DT,Been there before?,Midtown Location,Atlanta Location
+Piedmont Park,#NAME?,Park,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,Yes,"North Ave NW, Atlanta, GA 30332","55 Gilmer St SE, Atlanta, GA 30303"
+"Centennial Olympic Park
+
+",#NAME?,Park,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,Yes,,
+Michael C Carlos Museum,#NAME?,Museum,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,,,
+Center for Puppetry Arts,#NAME?,Museum,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,,,
+World of Coca Cola ,#NAME?,Museum,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,Yes,,
+Children's Museum of Atlanta,#NAME?,Museum,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,,,
+Georgia Aquarium,#NAME?,Attraction,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,,,
+Skyview Atlanta,#NAME?,Attraction,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,,,
+Zoo Atlanta,#NAME?,Attraction,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,,,
+Atlanta Botanical Garden,#NAME?,Attraction,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,#NAME?,,,
