@@ -1,11 +1,8 @@
 import streamlit as st
-# https://docs.google.com/spreadsheets/d/1wCT96SP92FHnOkvLzEBELc6CYzYce_8YsFBmAKhxpDU/edit?usp=sharing
 import pandas as pd 
 import urllib.request
 
-# url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQsmMfuH1mNMYfZen_KtNSm99oxvMIxBX2dP-A3X9nC2z-UMZeGiGoGJC3kc6a4e5JM3gsvF8av_C-R/pub?gid=1518743404&single=true&output=csv'
-# urllib.request.urlretrieve(url,"file.csv")
-
+# TODO: this file should be received from the gdoc link and downloaded automatically, but doesn't.
 st.title("Date ideas bc can is stupid")
 
 df = pd.read_csv('file.csv')
